@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on outsourcing
 - 🌱 I’m currently learning AI, C++ for big data
 - ⚡ Fun fact: My position is PM, but still love coding and do it every day
-- 📫 How to reach me: hoailv@blueline.com.vn
+- 📫 How to reach me: lehoai.214@gmail.com
